@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Homework_34_exception_handling/Homework_34_exception_handling.vcxproj" />
+  <Project Path="Homework_34_exception_handling/Homework_34_exception_handling.vcxproj" Id="a3c8763a-26c9-4f2d-a989-56f639c27e58" />
 </Solution>
